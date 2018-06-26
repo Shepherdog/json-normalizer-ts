@@ -29,12 +29,12 @@
     }
   }
 
-  // Define a users schema
+  // Define an users schema
   const user = new schema.Entity('users', {}, {
     idAttribute: 'uid'
   })
 
-  // Define your comments schema
+  // Define comments schema
   const comment = new schema.Entity('comments', {
     commenter: user
   })
@@ -51,7 +51,7 @@
 ```
 
 output: `normalizedData`
-``` JSON
+``` JavaScript
   {
     result: "123",
     entities: {
