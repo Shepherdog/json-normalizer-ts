@@ -1,8 +1,6 @@
 # Normalizes nested JSON according to a schema (TypeScript Version)
 
-> Inspired and rewrote from [Wormalize](https://github.com/shimohq/wormalize)
-
-> With the help of [typescript-lib-starter](https://github.com/Hotell/typescript-lib-starter)
+> Inspired and rewrote from [Wormalize](https://github.com/shimohq/wormalize), with the help of [typescript-lib-starter](https://github.com/Hotell/typescript-lib-starter).
 
 ## Usage
 
